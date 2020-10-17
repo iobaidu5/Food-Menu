@@ -1,4 +1,4 @@
-# Foor Menu App
+# Food Menu App
 
 A new Flutter project.
 
